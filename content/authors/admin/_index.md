@@ -1,7 +1,7 @@
 ---
 title: Robert A. Hill
 role: PhD Candidate at Nova School of Business and Economics
-avatar_filename: avatar.jfif
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
