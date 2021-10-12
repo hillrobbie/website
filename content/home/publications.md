@@ -38,3 +38,13 @@ This is the body of the recent publication
 [link](www.google.com)
 
 \---
+
+
+
+<!--StartFragment-->
+
+```
+This is somehting in here that will hopefully look good
+```
+
+<!--EndFragment-->
