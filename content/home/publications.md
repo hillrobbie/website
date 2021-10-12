@@ -3,7 +3,7 @@ widget: pages
 widget_id: reference
 headless: true
 weight: 90
-title: Recent Publications
+title: Some of my best papers
 subtitle: "this is where we keep recent publications "
 content:
   page_type: publication
@@ -18,5 +18,19 @@ content:
     exclude_featured: true
 design:
   view: 4
+  columns: "1"
+  background:
+    color: "#b5a7a7"
+    gradient_start: "#464343"
+    gradient_end: "#eaaaaa"
+    text_color_light: false
 ---
-This is the body of the recent publication
+**Put the body here**
+
+### what a great paper
+
+This is the body of the recent publication 
+
+
+
+[link](www.google.com)
