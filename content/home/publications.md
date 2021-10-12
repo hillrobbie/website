@@ -25,12 +25,16 @@ design:
     gradient_end: ""
     text_color_light: false
 ---
+
+
+\---
+
 **Put the body here**
 
 ### what a great paper
 
 This is the body of the recent publication 
 
-
-
 [link](www.google.com)
+
+\---
