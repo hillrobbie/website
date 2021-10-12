@@ -16,14 +16,16 @@ image:
   placement: 2
   preview_only: false
 ---
-## Title of Woring paper 1
+## Panel Thresholds Predictive Regressions: An Application to Emerging Market Exchange Rates
 
-*Robert and Whomever*
+*Robert Hill and Paulo Rodrigues*
 
-Astract of the paper is this and that You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+A methodology is proposed for identifying threshold effects in panel predictive regressions in which the predictor variables are strongly persistent. Our statistic of interest is the average of individual \textit{supremum} type statistics across the units of the panel. In certain cases, this statistic converges to a standard distribution while in other cases we show that a block bootstrap methodology can be applied and offers good finite sample characteristics when cross sectional dependence and serial correlation are present. This methodology is applied to assess the existence of threshold effects in an exchange rate predictability setting for emerging Sub-Saharan African economies during the post-2008 crisis period. 
 
-## Title of Woring paper 2
+## Forgetting Approaches to Improve Forecasting
 
-*Robert and Whomever*
+*Robert Hill and Paulo Rodrigues*
 
-Astract of the paper is this and that You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+There is abundant evidence of parameter variation in many macroeconomic and financial models. One way to account for this feature is through the use of time-varying parameter (TVP) models that discount older data in favour of more recent data. This practise is often known as forgetting and can be applied in several different ways. This paper introduces and examines the performance of different forgetting methodologies used in the context of the Kalman Filter. We review and develop the theoretical
+background and investigate the performance of each methodology in simulations as well as empirical exercises using dynamic model averaging (DMA). Specifically, we compare out-of-sample DMA forecasts of CPI inflation and market returns, where TVP models in the DMA framework use different forgetting approaches. Our results indicate that the stabilized linear forgetting mechanism of Milek and Kraus (1995) works well in both the simulated as well as in the applied settings.
+
