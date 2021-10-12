@@ -1,21 +1,12 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: build
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+I am a PhD candidate at the Nova School of Business and Economics. I work in the field of applied econometrics with interests in Bayesian dimension reduction, state-space models, and time-varying parameter models. 
+
+Econometrics and working with data are my daily bread, although you can sometimes have too much of a good thing! When I need a break I enjoy coastal rowing, acting in amateur theatre and listening to history podcasts.
