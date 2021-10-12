@@ -18,7 +18,7 @@ content:
     exclude_featured: true
 design:
   view: 4
-  columns: "1"
+  columns: "2"
   background:
     color: "#b5a7a7"
     gradient_start: "#464343"
