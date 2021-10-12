@@ -20,7 +20,13 @@ social:
     link: https://www.linkedin.com/
 organizations: []
 education:
-  courses: []
+  courses:
+    - institution: Nova SBE
+      course: PhD
+    - institution: Barcelona GSE
+      course: Masters
+    - institution: Simon Fraser University
+      course: Undergraduate
 email: ""
 superuser: true
 highlight_name: true
