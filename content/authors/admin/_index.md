@@ -11,13 +11,13 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/RobertA39253402
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/hillrobbie
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/robert-hill-78418a69
 organizations: []
 education:
   courses:
