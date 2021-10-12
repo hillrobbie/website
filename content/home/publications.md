@@ -20,9 +20,9 @@ design:
   view: 4
   columns: "2"
   background:
-    color: "#b5a7a7"
-    gradient_start: "#464343"
-    gradient_end: "#eaaaaa"
+    color: ""
+    gradient_start: ""
+    gradient_end: ""
     text_color_light: false
 ---
 **Put the body here**
