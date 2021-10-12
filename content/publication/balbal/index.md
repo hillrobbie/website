@@ -7,10 +7,10 @@ authors:
   - Robert
 abstract: "This is ab abstract for someting that will go in here. Its not a long one. "
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-10-12T21:52:40.035Z
+date: 2021-10-12T22:30:46.854Z
 ---
