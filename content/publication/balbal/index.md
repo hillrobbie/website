@@ -1,11 +1,11 @@
 ---
-title: balbal
-subtitle: bla bla bla
+title: Publication 1
+subtitle: an effective messing up of the brain
 publication_types:
-  - "0"
   - "2"
 authors:
-  - balbal
+  - Robert
+abstract: "This is ab abstract for someting that will go in here. Its not a long one. "
 draft: false
 featured: false
 image:
