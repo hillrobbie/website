@@ -31,7 +31,7 @@ design:
 
 **Put the body here**
 
-### what a great paper
+### [what a great paper](www.google.com)
 
 This is the body of the recent publication 
 
