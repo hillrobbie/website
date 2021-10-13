@@ -31,4 +31,4 @@ I am a PhD candidate at the Nova School of Business and Economics. I work in the
 
 Econometrics and working with data are my main interests, although you can sometimes have too much of a good thing! When I need a break I enjoy coastal rowing, acting in amateur theatre and listening to history podcasts.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
