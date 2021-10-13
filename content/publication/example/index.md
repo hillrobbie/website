@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: NOTEPublications
 subtitle: subtutle
 publication_types:
   - "2"
