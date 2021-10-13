@@ -5,6 +5,9 @@ avatar_filename: avatar.jpg
 bio: 
 interests: []
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: robert.hill@novasbe.pt
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/RobertA39253402
