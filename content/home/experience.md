@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: ''
-    date_start: ''
+    date_start: '2018-09-01'
     date_end: ''
     description: |2-
         courses:
@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Barcelona
-    date_start: '2014'
-    date_end: '2016'
+    date_start: '2016-09-01'
+    date_end: '2015-01-01'
     description: ''
     
   - title: Artilery Soldier
@@ -51,7 +51,7 @@ experience:
     company_logo: ''
     location: Canada and Abroad
     date_start: '2002-01-01'
-    date_end: '2015-12-31'
+    date_end: '2015-01-01'
     description: Artilery non-commissioned officer
 
 design:
