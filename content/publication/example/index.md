@@ -1,5 +1,4 @@
-widget: pages
-widget_id: reference
+
 ---
 title: "An example conference paper"
 
