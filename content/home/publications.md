@@ -31,7 +31,7 @@ design:
 
 **Put the body here**
 
-### [what a great paper](www.google.com)
+### [what a great paper](https://www.google.com)
 
 This is the body of the recent publication 
 
@@ -40,11 +40,3 @@ This is the body of the recent publication
 \---
 
 
-
-<!--StartFragment-->
-
-```
-This is somehting in here that will hopefully look good
-```
-
-<!--EndFragment-->
