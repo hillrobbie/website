@@ -8,6 +8,7 @@ authors:
   - Rita Lourenço
   - Paulo Rodrigues
 
+date: "2013-07-01T00:00:00Z"
 
 abstract: "In this paper we apply dynamic model averaging (DMA) to forecast Portuguese and Spanish
 house prices. DMA is a useful method for forecasting because it inherently allows for uncertainty
