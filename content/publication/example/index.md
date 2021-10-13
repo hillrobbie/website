@@ -23,5 +23,8 @@ appear to be useful for forecasting, and there appears to be less variation in e
 importance over time. However, volatility measures appear to be less important in Spain than in
 Portugal for predicting house prices. (JEL: C22, C53, R31)
 "
+
+url_pdf: 'https://econpapers.repec.org/article/ptubdpart/e202014.htm'
+
 date: 2021-10-13T10:18:14.667Z
 ---
