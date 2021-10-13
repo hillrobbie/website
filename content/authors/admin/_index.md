@@ -2,13 +2,9 @@
 title: Robert A. Hill
 role: PhD Candidate at Nova School of Business and Economics
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: 
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/RobertA39253402
@@ -27,7 +23,7 @@ education:
       course: Masters
     - institution: Simon Fraser University
       course: Undergraduate
-email: ""
+email: "robert dot hill at novasbe.pt"
 superuser: true
 highlight_name: true
 ---
