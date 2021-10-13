@@ -11,10 +11,10 @@ main:
     url: '#experience'
     weight: 20
   - name: Publications
-    url: '#Publications'
+    url: '#publications'
     weight: 30
   - name: Working Papers
-    url: '#Working Papers'
+    url: '#workingpapers'
     weight: 40
   
   
