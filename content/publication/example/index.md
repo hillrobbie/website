@@ -1,3 +1,13 @@
+---
+title: Publications
+subtitle: subtutle
+publication_types:
+  - "2"
+authors:
+  - admin
+abstract: "This is where the abstract is supposed to go "
+date: 2021-10-13T10:18:14.667Z
+---
 
 ---
 title: "An example conference paper"
