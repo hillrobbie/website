@@ -24,7 +24,7 @@ A methodology is proposed for identifying threshold effects in panel predictive 
 
 
 
-## Forgetting Approaches to Improve Forecasting
+## [Forgetting Approaches to Improve Forecasting](https://drive.google.com/file/d/18-k_JBxGAynFPjDt3UNkaNwM61WCw2qH/view?usp=sharing)
 
 *Robert Hill and Paulo Rodrigues*
 
