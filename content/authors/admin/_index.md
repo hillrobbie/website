@@ -23,7 +23,7 @@ education:
       course: Masters
     - institution: Simon Fraser University
       course: Undergraduate
-email: "robert dot hill at novasbe.pt"
+email: "robert.hill@novasbe.pt"
 superuser: true
 highlight_name: true
 ---
