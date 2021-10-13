@@ -24,7 +24,11 @@ importance over time. However, volatility measures appear to be less important i
 Portugal for predicting house prices. (JEL: C22, C53, R31)
 "
 
-url_pdf: 'https://econpapers.repec.org/article/ptubdpart/e202014.htm'
+links:
+ - name: Custom Link
+   url: https://econpapers.repec.org/article/ptubdpart/e202014.htm
+
+
 
 date: 2021-10-13T10:18:14.667Z
 ---
