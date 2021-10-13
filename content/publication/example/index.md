@@ -25,7 +25,7 @@ Portugal for predicting house prices. (JEL: C22, C53, R31)
 "
 
 links:
- - name: Custom Link
+ - name: Link
    url: https://econpapers.repec.org/article/ptubdpart/e202014.htm
 
 
