@@ -32,7 +32,7 @@ experience:
     description: Artilery non-commissioned officer
 widget_id: ref
 headless: true
-weight: 3
+weight: 120
 title: Experience
 subtitle: null
 design:
