@@ -24,10 +24,10 @@ A methodology is proposed for identifying threshold effects in panel predictive 
 
 
 
-## [Forgetting Approaches to Improve Forecasting](https://drive.google.com/file/d/1FZz0eiF4HuVrb26cBi4exy1gkKl_SntZ/view?usp=sharing)
+## [In Search of Sparsity: A Bayesian Exploration of the Factor Zoo]([https://drive.google.com/file/d/1FZz0eiF4HuVrb26cBi4exy1gkKl_SntZ/view?usp=sharing](https://drive.google.com/file/d/1IVF3ifXUlfW2J0lIIhWlOYCIXb4r7SGQ/view?usp=sharing))
 
-*Robert Hill and Paulo Rodrigues*
+*Robert Hill and Fahiz Baba-Yara*
 
-There is abundant evidence of parameter variation in many macroeconomic and financial models. One way to account for this feature is through the use of time-varying parameter (TVP) models that discount older data in favour of more recent data. This practise is often known as forgetting and can be applied in several different ways. This paper introduces and examines the performance of different forgetting methodologies used in the context of the Kalman Filter. We review and develop the theoretical
-background and investigate the performance of each methodology in simulations as well as empirical exercises using dynamic model averaging (DMA). Specifically, we compare out-of-sample DMA forecasts of CPI inflation and market returns, where TVP models in the DMA framework use different forgetting approaches. Our results indicate that the stabilized linear forgetting mechanism of Milek and Kraus (1995) works well in both the simulated as well as in the applied settings.
+A large number of potential observable risk factors that can explain the cross-section of stock returns have been proposed in asset pricing literature. Many of these factors are closely related, and there is often no clear group of factors that substantially better explain expected returns than others. This fact suggests a handful of latent factors driving variations in most observable risk factors. Although classical dimension reduction techniques can be used to uncover these latent factors, they mostly remain uninterpretable. 
 
+We apply a Bayesian Sparse Factor Model to the time series of observable risk factors to reduce the dimensionality and uncover latent factors. We combine the latent factors with a recently developed Bayesian Fama Macbeth regression (BFM) to assess how well they price the cross-section of returns. Unlike standard dimension reduction techniques, the sparsity prior allows us to efficiently describe the space of commonly proposed observable risks with latent factors that retain an economic interpretation. We show that these sparse latent factors better fit the cross-section of expected returns than models of the same size that define pricing factors as individual characteristic sorted portfolios.
