@@ -7,7 +7,7 @@ authors:
   - admin
   - Paulo Rodrigues
 
-date: "2013-07-01T00:00:00Z"
+date: "2022-07-01T00:00:00Z"
 
 abstract: "There is widespread evidence of parameter instability in the literature. One way to account for this 
 feature is through the use of time-varying parameter (TVP) models that discount older data in favour of more recent data.
