@@ -24,4 +24,7 @@ links:
  - name: Link
    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/for.2877
 
+ - name: News
+   url: https://www.suerf.org/suer-policy-brief/51721/forgetting-approaches-to-improve-forecasting-executive-summary
+
 ---
