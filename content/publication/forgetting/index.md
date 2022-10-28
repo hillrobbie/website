@@ -1,8 +1,7 @@
 ---
 title: Forgetting approaches to improve forecasting
 subtitle: 
-publication_types: Journal of Forecasting
-  - "2"
+publication_types: 
 authors:
   - admin
   - Paulo Rodrigues
