@@ -1,7 +1,7 @@
 ---
 title: Forgetting approaches to improve forecasting
 subtitle: 
-publication_types:
+publication_types: Journal of Forecasting
   - "2"
 authors:
   - admin
