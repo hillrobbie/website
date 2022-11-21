@@ -25,7 +25,7 @@ A methodology is proposed for identifying threshold effects in panel predictive 
 
 
 
-## [In Search of Sparsity: Bayesian Sparse Factor Models and the Factor Zoo ](https://drive.google.com/file/d/1XezkJOmR53jfEYTiaT_Rv2SvRYX8pcp4/view?usp=sharing)
+## [In Search of Sparsity: Bayesian Sparse Factor Models and the Factor Zoo (JMP)](https://drive.google.com/file/d/1XezkJOmR53jfEYTiaT_Rv2SvRYX8pcp4/view?usp=sharing)
 *Robert Hill and Fahiz Baba-Yara*
 
 [slides](https://drive.google.com/file/d/1VAkqh0x0Ae4DJTq0ElZRAwymqWeYI1Xl/view?usp=share_link)
