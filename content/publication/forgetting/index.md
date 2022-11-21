@@ -1,6 +1,6 @@
 ---
-title: Forgetting approaches to improve forecasting (Journal of Forecasting 2022)
-subtitle: 
+title: Forgetting approaches to improve forecasting 
+subtitle: Journal of Forecasting 2022
 publication_types: 
 authors:
   - admin
