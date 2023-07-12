@@ -18,7 +18,7 @@ image:
 ---
 
 ## [In Search of Sparsity: Bayesian Sparse Factor Models and the Factor Zoo (JMP)](https://drive.google.com/file/d/1XezkJOmR53jfEYTiaT_Rv2SvRYX8pcp4/view?usp=sharing)
-*with Fahiz Baba-Yara*
+*with [Fahiz Baba-Yara](https://www.babayara.com/) (Indiana University)*
 
 [slides](https://drive.google.com/file/d/1VAkqh0x0Ae4DJTq0ElZRAwymqWeYI1Xl/view?usp=share_link)
 
@@ -28,7 +28,7 @@ We apply a Bayesian Sparse Factor Model to the time series of observable risk fa
 
 
 ## Panel Thresholds Predictive Regressions: An Application to Emerging Market Exchange Rates
-*with Paulo Rodrigues*
+*with [Paulo Rodrigues](https://www.bportugal.pt/en/economista/paulo-mm-rodrigues)*
 
 [slides](https://drive.google.com/file/d/1jb1nqZSaVcL2ms3rTqrvIcEozr6OARgk/view?usp=sharing)
 
