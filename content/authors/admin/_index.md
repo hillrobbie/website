@@ -30,7 +30,7 @@ email: "robert.hill@novasbe.pt"
 superuser: true
 highlight_name: true
 ---
-I am a PhD candidate at the Nova School of Business and Economics. I work in the field of applied econometrics with interests in Bayesian dimension reduction, state-space models, and time-varying parameter models. 
+I am a PhD candidate at the Nova School of Business and Economics. I work in the field of applied econometrics with interests in Bayesian dimension reduction, state-space models, and time-varying parameter models. I will be joining the Bank of Canada as a Senior Economist in fall 2023.
 
 Econometrics and working with data are my main interests, although you can sometimes have too much of a good thing! When I need a break I enjoy coastal rowing, acting in amateur theatre and listening to history podcasts.
 
