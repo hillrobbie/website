@@ -28,7 +28,7 @@ We apply a Bayesian Sparse Factor Model to the time series of observable risk fa
 
 
 ## Panel Thresholds Predictive Regressions: An Application to Emerging Market Exchange Rates
-*with [Paulo Rodrigues](https://www.bportugal.pt/en/economista/paulo-mm-rodrigues)*
+*with [Paulo Rodrigues](https://www.bportugal.pt/en/economista/paulo-mm-rodrigues) (Bank of Portugal)*
 
 [slides](https://drive.google.com/file/d/1jb1nqZSaVcL2ms3rTqrvIcEozr6OARgk/view?usp=sharing)
 
