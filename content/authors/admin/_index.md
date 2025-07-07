@@ -1,6 +1,6 @@
 ---
 title: Robert A. Hill
-role: PhD Candidate at Nova School of Business and Economics
+role: Senior Economist at the Bank of Canada
 avatar_filename: avatar.jpg
 bio: 
 interests: []
