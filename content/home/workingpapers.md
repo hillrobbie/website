@@ -35,6 +35,4 @@ We apply a Bayesian Sparse Factor Model to the time series of observable risk fa
 A methodology is proposed for identifying threshold effects in panel predictive regressions in which the predictor variables are strongly persistent. Our statistic of interest is the average of individual supremum type statistics across the units of the panel. In certain cases, this statistic converges to a standard distribution while in other cases we show that a block bootstrap methodology can be applied and offers good finite sample characteristics when cross sectional dependence and serial correlation are present. This methodology is applied to assess the existence of threshold effects in an exchange rate predictability setting for emerging Sub-Saharan African economies during the post-2008 crisis period. 
 
 
-## The Price of Macro-financial Risk Factors in the Cross-Section of Commodity Returns.
-*with [Fahiz Baba-Yara](https://www.babayara.com/) (Indiana University) and [Massimiliano Bondatti](https://sites.google.com/view/massimilianobondatti/home) (Nova SBE)*
 
