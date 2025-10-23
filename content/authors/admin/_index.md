@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:robert.hill@novasbe.pt
+    link: mailto:RHill[at]bank-banque-canada.ca
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/RobertA39253402
