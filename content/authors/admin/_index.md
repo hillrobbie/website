@@ -1,7 +1,7 @@
 ---
 title: Robert A. Hill
 role: Senior Economist at the Bank of Canada
-avatar_filename: 
+avatar_filename: avatar.jpg
 bio: 
 interests: []
 social:
