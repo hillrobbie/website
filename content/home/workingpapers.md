@@ -19,10 +19,10 @@ image:
 
 <!-- ## [In Search of Sparsity: Bayesian Sparse Factor Models and the Factor Zoo (JMP)](https://drive.google.com/file/d/1XezkJOmR53jfEYTiaT_Rv2SvRYX8pcp4/view?usp=sharing) -->
 ## In Search of Sparsity: Bayesian Sparse Factor Models and the Factor Zoo (JMP)
-*with [Fahiz Baba-Yara](https://www.babayara.com/) (Indiana University)*
+*with [Fahiz Baba-Yara](https://www.babayara.com/) (Indiana University) and [Massimiliano Bondatti](https://www.massimilianobondatti.com/) (CUNEF)*
 
 
-[slides](https://drive.google.com/file/d/1VAkqh0x0Ae4DJTq0ElZRAwymqWeYI1Xl/view?usp=share_link)
+<!-- [slides](https://drive.google.com/file/d/1VAkqh0x0Ae4DJTq0ElZRAwymqWeYI1Xl/view?usp=share_link) -->
 
 A large number of potential observable risk factors that can explain the cross-section of stock returns have been proposed in asset pricing literature. Many of these factors are closely related, and there is often no clear group of factors that substantially better explain expected returns than others. This fact suggests a handful of latent factors driving variations in most observable risk factors. Although classical dimension reduction techniques can be used to uncover these latent factors, they mostly remain uninterpretable. 
 
