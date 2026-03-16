@@ -18,9 +18,8 @@ image:
 ---
 
 <!-- ## [In Search of Sparsity: Bayesian Sparse Factor Models and the Factor Zoo (JMP)](https://drive.google.com/file/d/1XezkJOmR53jfEYTiaT_Rv2SvRYX8pcp4/view?usp=sharing) -->
-## In Search of Sparsity: Bayesian Sparse Factor Models and the Factor Zoo (JMP)
+## [In Search of Sparsity: Bayesian Sparse Factor Models and the Factor Zoo (JMP)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6325578)
 *with [Fahiz Baba-Yara](https://www.babayara.com/) (Indiana University) and [Massimiliano Bondatti](https://www.massimilianobondatti.com/) (CUNEF)*
-
 
 <!-- [slides](https://drive.google.com/file/d/1VAkqh0x0Ae4DJTq0ElZRAwymqWeYI1Xl/view?usp=share_link) -->
 
