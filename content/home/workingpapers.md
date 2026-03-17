@@ -23,7 +23,7 @@ image:
 
 <!-- [slides](https://drive.google.com/file/d/1VAkqh0x0Ae4DJTq0ElZRAwymqWeYI1Xl/view?usp=share_link) -->
 
-	We develop a Bayesian Sparse Factor Model for asset pricing in factor zoo environments with correlated and weak factors. Observed factors are modeled as noisy measurements of latent priced risks, with hierarchical spike-and-slab priors on loadings to induce sparsity and quantify uncertainty about the factor structure. We embed the extracted factors in a Bayesian two-pass pricing framework that delivers inference on risk premia, pricing errors, and the implied stochastic discount factor (SDF). Empirically, three sparse latent factors summarize the zoo, remain competitive on the Bryzgalova, Huang and Julliard (2022) benchmark test sets, and produce tighter posteriors and a more stable SDF.
+We develop a Bayesian Sparse Factor Model for asset pricing in factor zoo environments with correlated and weak factors. Observed factors are modeled as noisy measurements of latent priced risks, with hierarchical spike-and-slab priors on loadings to induce sparsity and quantify uncertainty about the factor structure. We embed the extracted factors in a Bayesian two-pass pricing framework that delivers inference on risk premia, pricing errors, and the implied stochastic discount factor (SDF). Empirically, three sparse latent factors summarize the zoo, remain competitive on the Bryzgalova, Huang and Julliard (2022) benchmark test sets, and produce tighter posteriors and a more stable SDF.
 
 
 ## Panel Thresholds Predictive Regressions: An Application to Emerging Market Exchange Rates
